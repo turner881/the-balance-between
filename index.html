@@ -12,7 +12,7 @@ layout: default
       <!-- This loops through the paginated posts -->
       {% for post in paginator.posts %}
         <li class="post__item">
-          <b class="post__date">{{ post.date | date: "%b %-d, %Y" }}</b><br>
+          <b class="post__date">{{ post.date | date: "%b %-d" }}</b><br>
           <a class="post__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <div class="post__meta">
             <b class="post__author">{{ post.author }}</b>
