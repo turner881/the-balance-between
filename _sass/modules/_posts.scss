@@ -2,7 +2,7 @@
 // Posts
 // ==========================================================================
 
-@import url(http://fonts.googleapis.com/css?family=Asset);
+@import url(http://fonts.googleapis.com/css?family=Asset|Indie+Flower|Lobster|Anton|Orbitron:400,900);
 
 .post {
 	@include e(item) {
@@ -38,8 +38,14 @@
 		padding: 0 em(6px);
 	}
 	@include e(date) {
-		font-family: 'Asset';
+		font-family: 'Orbitron';
+		font-weight: 900;
 		color: 	rgba(0, 102, 204,0.8);
-		font-size: em(20px);
+		font-size: em(30px);
 	}
+}
+.underline-2 {
+	height: 4px;
+	width: 50px;
+	background: #444;
 }
