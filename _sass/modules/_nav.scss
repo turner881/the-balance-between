@@ -5,6 +5,9 @@
 .nav {	
 	margin-right: 40px;
 	margin-top: 10px;
+	@include mq(small) {
+		margin-right: 0;
+	}
 	@include e(item) {
 		@extend %nav-item-horz;
 		@include m(current) {
