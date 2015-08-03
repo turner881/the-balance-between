@@ -9,12 +9,12 @@
 	display: block;
 	text-align: center;
 	color: #222;
-	margin-left: em(-100px);
-	margin-top: em(20px);
-	padding-top: em(14px);
-	padding-bottom: em(14px);
-	padding-left: em(14px);
-	padding-right: em(14px);
+	margin-left: em(-80px);
+	margin-top: em(50px);
+	padding-top: em(10px);
+	padding-bottom: em(10px);
+	padding-left: em(12px);
+	padding-right: em(12px);
 	border-radius: 50%;
 	background-color: rgba(255,255,255,0.9);
 	@include mq(small) {
