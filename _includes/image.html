@@ -1,4 +1,4 @@
 <table class="image">
 <caption align="bottom">{{ include.description }}</caption>
-<tr><td><img class="center" src="{{ include.url }}" alt="{{ include.description }}"/></td></tr>
+<tr><td><img {% if include.class %}class="{{ include.class }}"{% endif %} src="{{ include.url }}" alt="{{ include.description }} {% if include.width %}width="{{ include.width }}"{% endif %}/></td></tr>
 </table>
