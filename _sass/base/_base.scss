@@ -118,15 +118,16 @@ button {
 }
 
 .left {
+	margin: 20px;
 	display: inline-block;
 	float: left;
 }
 .center {
 	display: block;
-	width: 450px;
 	margin: 10px auto 30px;
 }
 .right {
+	margin: 20px;
 	display: inline-block;
 	float: right;
 }
