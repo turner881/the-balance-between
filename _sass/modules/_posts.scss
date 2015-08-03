@@ -19,6 +19,7 @@
 		height: 250px;
 		width: 100%;
 		color: #fff;
+		padding-top: 80px;
 		@include mq(medium) {
 		  margin-bottom: em(44px);
   	}
