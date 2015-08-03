@@ -15,12 +15,11 @@
 	}
 	@include e(header) {
 		@include mq(medium) {
+		  margin-top: em(50px);
 		  margin-bottom: em(44px);
   		}
 	}
-  	#page-title {
-  		color: #fff;
-  	}
+ 
 	
 	@include e(content) {
 		margin-bottom: em(62px);
