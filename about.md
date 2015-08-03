@@ -11,6 +11,8 @@ I am a Buckeye born and bred, graduating from The Ohio State University in 2013.
 
 The purpose of this blog is to document my journey to finding balance in my life - staying grounded, but having the courage to go on adventures and seek a higher existence. This philosophy is made up of daily yoga practice, mindful thinking, seeking out inspiration, experiencing new things, and loving deeply.
 
+{% include image.html url="http://4.bp.blogspot.com/-H7Q5PXFnAjE/VNDOoRNy6DI/AAAAAAAAC_Q/8b-9lZh9qFs/s1600/934012_10200894999323731_1159370847_n.jpg" description="" class="left" width="400px" %}
+
 For me, this journey is symbolized by the triangle, which is the strongest geometric shape, but only if all three sides are in balance. Based on a mantra that I learned at YMCA summer camp (both as a camper and a counselor), the three sides of the triangle represent spirit, mind, and body. To reach your full potential all three aspects of your life must be equal. For more on this topic, check out Yoga Journey.
 
 {% include image.html url="http://2.bp.blogspot.com/-7fT1NTKbDQE/VNDO7AlQNuI/AAAAAAAAC_Y/duVMCSgxbMw/s1600/smb.jpg" description="" class="center" width="400px" %}
