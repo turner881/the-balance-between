@@ -1,7 +1,6 @@
 ---
 title: About
 permalink: /about/
-image2: http://2.bp.blogspot.com/-7fT1NTKbDQE/VNDO7AlQNuI/AAAAAAAAC_Y/duVMCSgxbMw/s1600/smb.jpg
 ---
 
 MEET HANNAH...
