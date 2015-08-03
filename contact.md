@@ -8,7 +8,7 @@ permalink: /contact/
 Please feel free to contact me:
 
 
-Twitter: {% inclue twitter.html %}
+Twitter: {% include twitter.html %}
 
 Email: [hdcasey231@gmail.com](mailto:{{ site.email }}).
 
