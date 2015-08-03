@@ -24,6 +24,10 @@
 		  margin-bottom: em(44px);
   	}
 	}
+  	.headline-primary {
+  		color: #fff;
+  	}
+	}
 	@include e(content) {
 		margin-bottom: em(62px);
 		li {
