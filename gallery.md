@@ -5,8 +5,7 @@ permalink: /gallery/
 
 {% include image.html url="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11742687_1017479884938416_3257313607569689311_n.jpg?oh=d52cb474752e7acf97f9156da4d25244&oe=56387D74" description="" class="gallery-photo" %}
 
-{% include image.html url="{% include image.html url="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/11742687_1017479884938416_3257313607569689311_n.jpg?oh=d52cb474752e7acf97f9156da4d25244&oe=56387D74" description="" class="gallery-photo" %}
-" description="" class="gallery-photo" %}
+{% include image.html url="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/10488022_10152466608727493_7342202790716661982_n.jpg?oh=7b600ac0d1aa66c8d58b5e6374664cc9&oe=5656C229" description="" class="gallery-photo" %}
 
 {% include image.html url="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10615329_10202839137725976_6628689843049647706_n.jpg?oh=64cf6dda1739526c67ef632d648b8006&oe=56514FC2" description="" class="gallery-photo" %}
 
