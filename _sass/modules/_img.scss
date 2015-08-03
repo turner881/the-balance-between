@@ -24,6 +24,8 @@
 }
 
 .gallery-photo {
+	display: inline-block;
+	float: left;
 	padding: 15px;
 	border: solid 1px #bbb;
 	border-radius: 4px;
