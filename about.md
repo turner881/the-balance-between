@@ -3,9 +3,9 @@ title: About
 permalink: /about/
 ---
 
-MEET HANNAH...
-
 {% include image.html url="http://3.bp.blogspot.com/-5NVNiqLqgHU/VM8U1WCfRaI/AAAAAAAAC8k/YYo1QeJc80I/s1600/profilepic1%2Bcopy.jpg" description="" class="center" width="400px" %}
+
+MEET HANNAH...
 
 I am a Buckeye born and bred, graduating from The Ohio State University in 2013. In September that year I made the leap to expat life by moving to Dubai with my boyfriend, Matt. My life revolves around practicing yoga daily, traveling as much as possible, watching too much Netflix, exploring Dubailand, and looking for new creative outlets. Driven by a passion for learning and culture from a very young age, I find inspiration in everything - beautiful photos, delicious meals, breathtaking views, the fascinating people around me, the list goes on.
 
