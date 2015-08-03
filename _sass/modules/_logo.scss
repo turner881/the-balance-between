@@ -8,12 +8,12 @@
 	font-size: em(40px);
 	display: block;
 	text-align: center;
-	color: darken($color-primary, 15%);
-	margin-left: em(-40px);
+	color: #222);
+	margin-left: em(-100px);
 	margin-top: em(20px);
-	padding: em(20px);
+	padding: em(13px 20px);
 	border-radius: 50%;
-	background-color: rgba(255,255,255,0.7);
+	background-color: rgba(255,255,255,0.9);
 	@include mq(small) {
 	  margin-top: 20px;
 	  margin-bottom: 20px; 
