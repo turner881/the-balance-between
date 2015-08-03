@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Hannah Casey" # Set default author name
+      categories: "travel"
       layout: "post"
       comments: true
   -
