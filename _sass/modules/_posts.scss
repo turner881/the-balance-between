@@ -15,6 +15,10 @@
 	}
 	@include e(header) {
 		background: blue;
+		text-align: center;
+		height: 250px;
+		width: 100%;
+		color: #fff;
 		@include mq(medium) {
 		  margin-top: em(50px);
 		  margin-bottom: em(44px);
