@@ -22,12 +22,12 @@
 		padding-top: 80px;
 		@include mq(medium) {
 		  margin-bottom: em(44px);
-  	}
+  		}
 	}
-  	.headline-primary {
+  	#page-title {
   		color: #fff;
   	}
-	}
+	
 	@include e(content) {
 		margin-bottom: em(62px);
 		li {
