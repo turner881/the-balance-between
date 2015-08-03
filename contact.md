@@ -10,7 +10,7 @@ Please feel free to contact me:
 
 Twitter: {% include twitter.html %}
 
-Email: [hdcasey231@gmail.com](mailto:{{ site.email }}).
+Email: [hdcasey231@gmail.com](mailto:{{ site.email }})
 
 
 I hope you enjoy my blog!
