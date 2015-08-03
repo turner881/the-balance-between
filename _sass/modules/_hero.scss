@@ -3,10 +3,23 @@
 // ==========================================================================
 
 .hero {
-	height: 700px;
-	background: url('https://content-na.drive.amazonaws.com/cdproxy/templink/QtA5YLqXNprE0BIBaIf1UfAE7pa8piWNfFfVPPmHSAgLAYspN?viewBox=1366');
+	height: 660px;
+	background: url('https://content-na.drive.amazonaws.com/cdproxy/templink/cn5T3a-fwZzXQi8LkH2HAGk2L6yV8JC-mjSY0nw02XsLAYspN?viewBox=1366');
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-top: em(-48px);
 	margin-bottom: em(50px);
+	text-align: center;
+}
+
+.main-title {
+	color: #fff;
+	font-size: 80px;
+	margin-top: 280px;
+}
+
+.title-desc {
+	color: #fff;
+	font-size: 40px;
+	margin-top: 20px;
 }
