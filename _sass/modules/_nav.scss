@@ -13,6 +13,9 @@
 				color: #fff;
 				@extend %nav-item-link;
 				@extend %nav-item-on;
+				@include mq(small) {
+					color: rgba(0,0,0,0.7);
+				}
 			}
 		}
 		a {
