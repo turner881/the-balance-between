@@ -3,6 +3,8 @@
 // ==========================================================================
 
 .nav {	
+	margin-right: 20px;
+	margin-top: 10px;
 	@include e(item) {
 		@extend %nav-item-horz;
 		@include m(current) {
