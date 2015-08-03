@@ -8,7 +8,7 @@ permalink: /contact/
 Please feel free to contact me:
 
 
-Twitter: @hannahdcasey
+Twitter: @{{ site.twitter_username }}
 
 Email: [hdcasey231@gmail.com](mailto:{{ site.email }}).
 
