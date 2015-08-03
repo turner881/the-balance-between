@@ -109,10 +109,15 @@ button {
 // Footer
 
 footer {
-	border-top: 1px solid #e3e3e3;
+	border-top: 1px solid #b3b3b3;
 	p {
 		font-size: em(16px);
 		margin-top: em(22px, 16px);
 		color: palette(grey, light);
 	}
+}
+
+.footer-bg {
+	width: 100%;
+	background-color: #e3e3e3;
 }
