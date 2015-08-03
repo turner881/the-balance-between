@@ -2,13 +2,15 @@
 title: "My Yoga Journey"
 permalink: my-yoga-journey
 ---
-{% include image.html url="http://1.bp.blogspot.com/-W5zO6MPqho4/VNDJENun37I/AAAAAAAAC_A/M3SLpy3pxzg/s1600/yogaheader.png" description="" %}
 
 My yoga journey began in September 2014. For the year and a half leading up to that point I had been on a strict strength training regimen, 4 to 5 days a week lifting in the gym. I went home to Ohio for 3 weeks and came back with no motivation to start weight training again. Exercise is my outlet - I don't work out just to look good, I work out because it makes me feel great. It helps me with anxiety and is my natural anti-depressant. The bottom line is that I love being active. It makes me feel like myself, happy and healthy, so it's important to me that I enjoy what I'm doing. While feeling really uninspired by training, I sort of stumbled upon yoga.
 
-{% include image.html url="http://i1284.photobucket.com/albums/a561/dayinthelife_/IMG_4117_zpss5st0cci.jpg" description="The start of the journey, 9/25/14" width="400px" %}
+{% include image.html url="http://1.bp.blogspot.com/-W5zO6MPqho4/VNDJENun37I/AAAAAAAAC_A/M3SLpy3pxzg/s1600/yogaheader.png" description="" %}
 
 After a few classes, I felt brand new. I had found the source of inspiration that my old training regime wasn't providing. In just a few short months I have accomplished more in my practice and achieved asanas I never thought myself capable of.
+
+
+{% include image.html url="http://i1284.photobucket.com/albums/a561/dayinthelife_/IMG_4117_zpss5st0cci.jpg" description="The start of the journey, 9/25/14" width="400px" %}
 
 For the last few years I have lived by the philosophy that in order to reach enlightenment and happiness, you must keep three parts of yourself in balance: spirit, mind, and body. This is represented by the triangle that I have had tattooed on the inside of my left ankle since the summer of 2012. To best explain how this yoga journey has improved by life, I'll break it down...
 
