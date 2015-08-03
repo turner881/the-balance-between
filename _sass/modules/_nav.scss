@@ -10,6 +10,7 @@
 		@include m(current) {
 			@extend %nav-item-horz;
 			a {
+				color: #fff;
 				@extend %nav-item-link;
 				@extend %nav-item-on;
 			}
