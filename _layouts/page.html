@@ -18,6 +18,10 @@ layout: default
 	  <article class="post__content">
 	  {{ content }}
 	  </article>
+	  
+	  {% if page.image2 %}
+    		<img id="page-images" class="img--feat" src="{{ page.image2 }}">
+    	   {% endif %}
 
 	</div>
 </div>
