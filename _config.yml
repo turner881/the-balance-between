@@ -1,10 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
+title: Hannah's Blog
+email: hdcasey231@gmail.com
+description: My Blog.
+baseurl: "/hannah"
 url: ""
-twitter_username: 
+twitter_username: hannahdcasey
 avatar: "" # Set footer avatar
 paginate: 3
 
