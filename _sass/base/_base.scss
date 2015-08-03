@@ -117,6 +117,19 @@ button {
 	outline: 0;
 }
 
+.left {
+	display: inline-block;
+	float: left;
+}
+.center {
+	display: block;
+	margin: auto;
+}
+.right {
+	display: inline-block;
+	float: right;
+}
+
 // Footer
 
 footer {
