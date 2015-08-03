@@ -2,6 +2,8 @@
 // Posts
 // ==========================================================================
 
+@import url(http://fonts.googleapis.com/css?family=Asset);
+
 .post {
 	@include e(item) {
 		border-bottom: 1px dotted palette(grey, light);
@@ -36,7 +38,8 @@
 		padding: 0 em(6px);
 	}
 	@include e(date) {
-		color: 	blue;
-		font-size: em(30px);
+		font-family: 'Asset';
+		color: 	rgba(0, 102, 204,0.8);
+		font-size: em(35px);
 	}
 }
