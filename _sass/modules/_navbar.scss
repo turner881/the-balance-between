@@ -13,3 +13,13 @@
 		margin-bottom: em(24px);
 	}
 }
+
+.hidden {
+	display: none;
+	text-align: center;
+	background: #ccc;
+	
+	@include mq(small) {
+		display: block;
+	}
+}
