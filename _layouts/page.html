@@ -12,7 +12,9 @@ layout: default
 	    <h1 class="headline-primary">{{ page.title }}</h1>
 	  </header>
 	  
-	  
+	   {% if page.image %}
+    		<img class="img--feat is-hidden-mobile" src="{{ page.image }}">
+    	   {% endif %}
 	
 	  <article class="post__content">
 	  {{ content }}
