@@ -24,11 +24,11 @@
 }
 
 .gallery-photo {
-	display: inline;
+	display: inline-block;
 	float: left;
 	padding: 15px;
 	border: solid 1px #bbb;
 	border-radius: 4px;
-	width: 30.667%;
-	margin-left: 2%;
+	width: 200px;
+	margin-left: 20px;
 }
