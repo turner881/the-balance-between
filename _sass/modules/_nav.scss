@@ -16,7 +16,7 @@
 		}
 		a {
 			@extend %nav-item-link;
-			color: palette(grey, light);
+			color: #fff;
 			&:hover {
 				@extend %nav-item-on;
 			}
