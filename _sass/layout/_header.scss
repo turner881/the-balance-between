@@ -3,6 +3,7 @@
 // ==========================================================================
 
 .main-header {
+  width: 100vw;
   @extend %clearfix;
   @include mq(medium)  {
     height: 48px;
