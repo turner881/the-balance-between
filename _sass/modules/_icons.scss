@@ -52,10 +52,11 @@
 	right: 0;
 	top: 10vw;
 	@media (max-width: 1050px) {
+		border-radius: 4px 4px 0 0;
 		display: fixed;
-		height: 9vh;
-		width: 290px;
-		top: 91vh;
+		height: 8vh;
+		width: 288px;
+		top: 92vh;
 		bottom: 0;
 		left: 0;
 		right: 0;
