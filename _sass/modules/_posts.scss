@@ -2,7 +2,7 @@
 // Posts
 // ==========================================================================
 
-@import url(http://fonts.googleapis.com/css?family=Sans|Dosis:400,800|Asset|Indie+Flower|Lobster|Anton|Orbitron:400,900);
+@import url(http://fonts.googleapis.com/css?family=Sans|Dosis:400,800|Asset|Abel|Medula+One|Anton|Orbitron:400,900);
 
 .post {
 	@include e(item) {
@@ -14,7 +14,7 @@
 		}
 	}
 	@include e(header) {
-		font-family: 'Dosis';
+		font-family: 'Medula One', cursive;
 		@include mq(medium) {
 		  margin-top: em(50px);
 		  margin-bottom: em(44px);
@@ -23,7 +23,7 @@
  
 	
 	@include e(content) {
-		font-family: 'Open Sans';
+		font-family: 'Abel';
 		margin-bottom: em(62px);
 		li {
 			margin: em(4px) 0;
@@ -34,8 +34,8 @@
 		margin-bottom: em(26px);
 	}
 	@include e(author) {
-		font-family: 'Dosis';
-		font-weight: 800;
+		font-family: 'Abel';
+		font-weight: bold;
 		color: $color-primary;
 		font-weight: $font-weight--bold;
 	}
