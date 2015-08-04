@@ -6,6 +6,7 @@
 	margin-right: 40px;
 	margin-top: 10px;
 	@include mq(small) {
+		width: 33.33%;
 		margin: 0;
 	}
 	@include e(item) {
@@ -13,8 +14,6 @@
 		@include mq(small) {
 			display: inline-block;
 			float: left;
-			width: 33%;
-			border-right: rgba(0,0,0,0.5);
 		}	
 		@include m(current) {
 			@extend %nav-item-horz;
