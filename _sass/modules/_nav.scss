@@ -6,6 +6,8 @@
 	margin-right: 40px;
 	margin-top: 10px;
 	@include mq(small) {
+		display: inline-block;
+		width: 33%;
 		margin-top: 0;
 		margin-right: 0;
 	}
