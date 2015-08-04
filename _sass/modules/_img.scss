@@ -31,4 +31,10 @@
 	border-radius: 4px;
 	width: 30.66%;
 	margin-left: 2%;
+	@include mq(small) {
+		display: block;
+		width: 70%;
+		max-width: 350px;
+		margin: auto;
+	}
 }
