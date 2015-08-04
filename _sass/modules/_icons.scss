@@ -64,7 +64,7 @@
 		margin: auto;
 		text-align: center;
 	}
-	@media (max-height: 570px) {
+	@media (max-width: 350px) {
 		border-radius: 4px 4px 0 0;
 		display: fixed;
 		height: 10vh;
