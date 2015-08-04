@@ -42,7 +42,7 @@
 		margin-bottom: em(26px);
 	}
 	@include e(author) {
-		// font-weight: bold;
+		font-size: 0.9em;
 		color: $color-secondary;
 		font-weight: $font-weight--bold;
 	}
@@ -60,7 +60,7 @@
 }
 
 #post-home-title {
-	font-size: 24px;
+	font-size: 30px;
 	font-weight: bold;
 }
 
