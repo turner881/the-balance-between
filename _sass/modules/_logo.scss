@@ -16,20 +16,22 @@
 	margin-top: 14px;
 	padding: 2px 16px;
 	border-radius: 9px;
-	background-color: rgba(255,255,255,0.95);
-	box-shadow: 3px 3px 5px rgba(0,0,0,0.8);
+	background-color: rgba(255,255,255,1);
+	
 	margin-left: 13.5px;
 	@include mq(small) {
 	  margin-top: 20px;
 	  margin-bottom: 20px; 
 	}
 	@include mq(medium) {
+		box-shadow: 4px 4px 3px rgba(0,0,0,0.8);
 		float: left;
 		margin-top: 13.5px;
 	}
 }
 
 .site-logo:hover {
-	background-color: #fff;
+	background-color: $secondary-color;
+	opacity: 0.5;
 	box-shadow: none;
 }
