@@ -12,11 +12,10 @@
 		@extend %nav-item-horz;
 		@include mq(small) {
 			display: inline-block;
+			width: 33.33vw;
 			float: left;
 		}	
-			a {
-				width: 33%;	
-			} 
+		
 		@include m(current) {
 			@extend %nav-item-horz;
 			a {
