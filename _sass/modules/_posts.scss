@@ -24,8 +24,6 @@
 		}
 	}
 	@include e(header) {
-		font-size: 30px;
-		font-weight: bold;
 		@include mq(medium) {
 		  margin-top: em(50px);
 		  margin-bottom: em(44px);
@@ -57,7 +55,7 @@
 		font-weight: 900;
 		color: 	$color-primary;
 		opacity: 0.8;
-		font-size: em(40px);
+		font-size: em(30px);
 	}
 }
 
