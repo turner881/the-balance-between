@@ -66,13 +66,12 @@
 		margin: auto;
 		text-align: center;
 	}
-	@media (max-width: 350px) {
-		border-radius: 4px 4px 0 0;
+	@include mq(small) {
+		border-radius: 0 0 4px 4px;
 		display: fixed;
-		height: 9vh;
+		height: 48px;
 		width: 288px;
-		top: 91vh;
-		bottom: 0;
+		top: 0;
 		left: 0;
 		right: 0;
 		margin: auto;
