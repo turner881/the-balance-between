@@ -42,7 +42,7 @@
 		margin-bottom: em(26px);
 	}
 	@include e(author) {
-		font-size: 0.9em;
+		font-size: 1em;
 		color: $color-secondary;
 		font-weight: $font-weight--bold;
 	}
