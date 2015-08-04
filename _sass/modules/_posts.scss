@@ -24,6 +24,8 @@
 		}
 	}
 	@include e(header) {
+		font-size: 30px;
+		font-weight: bold;
 		@include mq(medium) {
 		  margin-top: em(50px);
 		  margin-bottom: em(44px);
