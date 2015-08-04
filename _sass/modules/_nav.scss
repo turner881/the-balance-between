@@ -19,6 +19,12 @@
 		
 		@include m(current) {
 			@extend %nav-item-horz;
+			@include mq(small) {
+				display: inline-block;
+				width: 33.33vw;
+				float: left;
+				margin-bottom: 40px;
+		        }	
 			a {
 				color: #fff;
 				@extend %nav-item-link;
