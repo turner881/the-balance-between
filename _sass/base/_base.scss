@@ -11,6 +11,7 @@
 }
 
 body {
+	overflow-x: hidden;
 	color: palette(grey);
   font-size: $base__font-size;
   font-family: $font-family--primary;
