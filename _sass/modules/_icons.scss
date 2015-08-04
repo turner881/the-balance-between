@@ -31,7 +31,7 @@
 	color: 	rgba(0, 102, 204,0.8);
 	// border-radius: 50%;
 	border-bottom: 1px solid rgba(255,255,255,0.6);
-	@include mq(small) {
+	@media (max-width: 900px) {
 		padding: 8px 13px;
 		margin: 5px 0;
 		text-align: center;
@@ -43,7 +43,7 @@
 
 #last {
 	border-bottom: 0;
-	@include mq(small) {
+	@media (max-width: 900px) {
 		border-right: 0;
 	}
 }
@@ -54,7 +54,7 @@
 	background: rgba(200,200,200,0.7);
 	right: 0;
 	top: 10vw;
-	@include mq(small) {
+	@media (max-width: 900px) {
 		border-radius: 0 0 4px 4px;
 		display: fixed;
 		height: 48px;
