@@ -2,7 +2,7 @@
 // Hero
 // ==========================================================================
 
-@import url(http://fonts.googleapis.com/css?family=Sans|Slabo||Dosis:400,800|Nixie+One|Playfair+Display|Old+Standard+TT|Open+Sans+Condensed:300|Quicksand|Oswald);
+@import url(http://fonts.googleapis.com/css?family=Sans|Slabo|Dosis:400,800|Nixie+One|Playfair+Display|Old+Standard+TT|Open+Sans+Condensed:300|Quicksand|Oswald);
 .hero {
 	height: 45vw;
 	max-height: 550px;
@@ -17,7 +17,7 @@
 }
 
 .main-title {
-	font-family: 'Slabo', 'Sans Serif';
+	font-family: 'Slabo';
 	color: rgba(255, 255, 255,0.95);
 	font-size: 80px;
 	padding-top: 14%;
@@ -29,7 +29,7 @@
 }
 
 .title-desc {
-	font-family: 'Open Sans', 'Sans Serif
+	font-family: 'Open Sans';
 	font-style: italic;
 	color: $color-primary;
 	font-size: 20px;
