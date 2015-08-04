@@ -5,6 +5,7 @@
 .navbar {	
 	position: relative;
 	@include mq(small) { 
+		float: left;
 		margin-bottom: em(40px);
 	}
 	@include mq(medium) { 
