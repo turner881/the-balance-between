@@ -3,7 +3,8 @@
 // ==========================================================================
 
 .btn {
-  @include ui-colors($ui-colors);
+	background-color: $secondary-color;
+  //@include ui-colors($ui-colors);
 }
 
 [class^="btn--"] {
