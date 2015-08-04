@@ -25,12 +25,15 @@
 	display: block;
 	text-align: center;
 	font-size: 22px;
-	padding: 13px;
+	padding: 13px 8px;
+	margin: 0 5px;
 	// background: rgba(255,255,255,0.5);
 	color: 	rgba(0, 102, 204,0.8);
 	// border-radius: 50%;
 	border-bottom: 1px solid rgba(255,255,255,0.6);
 	@media (max-width: 1050px) {
+		padding: 8px 13px;
+		margin: 5px 0;
 		text-align: center;
 		display: inline-block;
 		border-right: solid 1px rgba(255,255,255,0.6);
@@ -54,9 +57,9 @@
 	@media (max-width: 1050px) {
 		border-radius: 4px 4px 0 0;
 		display: fixed;
-		height: 9vh;
+		height: 8vh;
 		width: 288px;
-		top: 91vh;
+		top: 92vh;
 		bottom: 0;
 		left: 0;
 		right: 0;
@@ -66,9 +69,9 @@
 	@media (max-width: 350px) {
 		border-radius: 4px 4px 0 0;
 		display: fixed;
-		height: 10vh;
+		height: 9vh;
 		width: 288px;
-		top: 90vh;
+		top: 91vh;
 		bottom: 0;
 		left: 0;
 		right: 0;
