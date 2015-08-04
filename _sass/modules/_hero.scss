@@ -23,6 +23,9 @@
 	padding-top: 14%;
 	padding-bottom: 0;
 	text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+	@media (max-width: 900px) {
+		font-size: 60px;
+	}
 }
 
 .title-desc {
