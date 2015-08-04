@@ -24,8 +24,7 @@
 		}
 	}
 	@include e(header) {
-		font-family: 'PT Sans', sans-serif;
-		font-weight: bold;
+		
 		@include mq(medium) {
 		  margin-top: em(50px);
 		  margin-bottom: em(44px);
@@ -62,6 +61,10 @@
 	}
 }	
 
+#post-title-page {
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+}
 
 #post-home-title {
 	font-size: 30px;
