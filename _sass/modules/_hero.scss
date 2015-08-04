@@ -2,7 +2,7 @@
 // Hero
 // ==========================================================================
 
-@import url(http://fonts.googleapis.com/css?family=Lobster|Clicker+Script|Pacifico|Nixie+One|Playfair+Display|Old+Standard+TT|Open+Sans+Condensed:300|Quicksand|Oswald);
+@import url(http://fonts.googleapis.com/css?family=Sans|Dosis:400,800|Nixie+One|Playfair+Display|Old+Standard+TT|Open+Sans+Condensed:300|Quicksand|Oswald);
 .hero {
 	height: 45vw;
 	max-height: 550px;
@@ -17,7 +17,7 @@
 }
 
 .main-title {
-	font-family: 'Clicker Script';
+	font-family: 'Dosis', 'Sans Serif';
 	color: rgba(255, 255, 255,0.95);
 	font-size: 80px;
 	padding-top: 14%;
@@ -29,6 +29,7 @@
 }
 
 .title-desc {
+	font-family: 'Open Sans', 'Sans Serif';
 	color: $color-primary;
 	font-size: 20px;
 	
