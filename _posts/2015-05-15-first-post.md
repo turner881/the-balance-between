@@ -1,6 +1,7 @@
 ---
 title:  "WELCOME!"
 categories: sample
+Author: Matt Turner
 image: feat-img.jpg
 permalink: /welcome
 ---
