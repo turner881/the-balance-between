@@ -28,6 +28,15 @@
 	}
 }
 
+#logo-home {
+	box-shadow: 4px 4px 3px rgba(0,0,0,0.8);
+}
+
+#logo-home:hover {
+	box-shadow: 0px 0px 0px rgba(0,0,0,0);
+}
+
+
 .site-logo:hover {
 	background-color: #fff;
 	opacity: 0.5;
