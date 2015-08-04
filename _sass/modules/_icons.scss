@@ -31,7 +31,7 @@
 	// border-radius: 50%;
 	border-bottom: 1px solid rgba(255,255,255,0.6);
 	margin: 5px;
-	@media (max-width: 1200px) {
+	@media (max-width: 1050px) {
 		display: inline-block;
 		border-right: solid 1px rgba(255,255,255,0.6);
 		border-bottom: 0;
@@ -40,7 +40,7 @@
 
 #last {
 	border-bottom: 0;
-	@media (max-width: 1200px) {
+	@media (max-width: 1050px) {
 		border-right: 0;
 	}
 }
@@ -51,7 +51,7 @@
 	background: rgba(200,200,200,0.7);
 	right: 0;
 	top: 10vw;
-	@media (max-width: 1200px) {
+	@media (max-width: 1050px) {
 		display: fixed;
 		height: 48px;
 		top: none;
