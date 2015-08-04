@@ -12,7 +12,7 @@
 			border-radius: 20px;
 			padding: 20px 30px;
 		}
-		include mq(small) {
+		@include mq(small) {
 			border-bottom: 1px dotted palette(grey, light);
 			padding-bottom: 40px;
 		}
