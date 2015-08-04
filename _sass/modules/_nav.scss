@@ -13,6 +13,8 @@
 		@include mq(small) {
 			display: inline-block;
 			float: left;
+			width: 33%;
+			border-right: rgba(0,0,0,0.5);
 		}	
 		@include m(current) {
 			@extend %nav-item-horz;
