@@ -28,7 +28,7 @@
 	padding: 13px 8px;
 	margin: 0 5px;
 	// background: rgba(255,255,255,0.5);
-	color: 	rgba(0, 102, 204,0.8);
+	color: 	$color-primary;
 	// border-radius: 50%;
 	border-bottom: 1px solid rgba(255,255,255,0.6);
 	@include mq(small) {
