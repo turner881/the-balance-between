@@ -45,7 +45,10 @@
 	
 	@include mq(small) {
 		display: inline;
-		overflow: hidden;
 	}
+}
+
+.overflow-none {
+	overflow: hidden;
 }
 
