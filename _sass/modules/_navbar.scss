@@ -7,6 +7,7 @@
 	@include mq(small) { 
 		float: left;
 		width: 33.33%;
+		border-right: rgba(0,0,0,0.5);
 		margin-bottom: em(40px);
 	}
 	@include mq(medium) { 
