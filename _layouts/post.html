@@ -24,9 +24,6 @@ layout: default
       {{ content }}
     </article>
     
-    <b class="post__sep">•</b>
-     <b class="post__author">{% if page.author %}{{ page.author }}{% endif %}</b>
-
     {% include disqus.html disqus_identifier=page.disqus_identifier %}
    
 	</div>
