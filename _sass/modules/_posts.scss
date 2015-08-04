@@ -2,7 +2,7 @@
 // Posts
 // ==========================================================================
 
-@import url(http://fonts.googleapis.com/css?family=Sans|Dosis:400,800|Allerta+Stencil|Asset|Abel|Medula+One|Fjalla+One|Cantarell:400,400italic,700italic,700);
+@import url(http://fonts.googleapis.com/css?family=Sans|Dosis:400,800|PT+Sans|Allerta+Stencil|Asset|Abel|Medula+One|Fjalla+One|Cantarell:400,400italic,700italic,700);
 
 .post {
 	@include e(item) {
@@ -24,6 +24,8 @@
 		}
 	}
 	@include e(header) {
+		font-family: 'PT Sans', sans-serif;
+		font-weight: bold;
 		@include mq(medium) {
 		  margin-top: em(50px);
 		  margin-bottom: em(44px);
