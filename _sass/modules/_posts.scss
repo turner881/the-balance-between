@@ -6,11 +6,18 @@
 
 .post {
 	@include e(item) {
-		background-color: rgba(255,255,255,0.9);
-		border-radius: 20px;
-		// border-bottom: 1px dotted palette(grey, light);
 		margin-bottom: em(40px);
-		padding: 20px 30px;
+		@include mq(medium) {
+			background-color: rgba(255,255,255,0.9);
+			border-radius: 20px;
+			padding: 20px 30px;
+		}
+		include mq(small) {
+			border-bottom: 1px dotted palette(grey, light);
+			padding-bottom: 40px;
+		}
+		
+		
 		&:last-child {
 			border: none;
 		}
