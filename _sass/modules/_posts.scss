@@ -14,7 +14,7 @@
 		}
 	}
 	@include e(header) {
-		font-family: 'Medula One', cursive;
+		font-family: 'Medula One';
 		@include mq(medium) {
 		  margin-top: em(50px);
 		  margin-bottom: em(44px);
@@ -35,7 +35,7 @@
 	}
 	@include e(author) {
 		font-family: 'Abel';
-		font-weight: bold;
+		// font-weight: bold;
 		color: $color-primary;
 		font-weight: $font-weight--bold;
 	}
