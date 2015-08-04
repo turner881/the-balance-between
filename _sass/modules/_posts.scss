@@ -33,7 +33,7 @@
 	}
 	@include e(author) {
 		// font-weight: bold;
-		color: $color-accent;
+		color: $color-secondary;
 		font-weight: $font-weight--bold;
 	}
 	@include e(sep) {
