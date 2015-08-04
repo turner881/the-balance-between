@@ -22,12 +22,16 @@
 }
 
 .social-banner-icn {
+	display: block;
 	text-align: center;
 	font-size: 30px;
 	padding: 5px;
 }
 
 .social-banner {
+	border-radius: 4px 0 0 4px;
 	position: fixed;
 	background: blue;
+	top: right;
+	right: 30%;
 }
