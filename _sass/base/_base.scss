@@ -11,10 +11,12 @@
 }
 
 #home-bg {
-	background-color: #ddd;
-	height: 100%;
-	margin: 0;
-	padding-top: -50px;
+	@include mq(medium) {
+		background-color: #ddd;
+		height: 100%;
+		margin: 0;
+		padding-top: -50px;
+	}
 }
 
 body {
@@ -145,7 +147,6 @@ button {
 
 footer {
 	border-top: 1px solid #b3b3b3;
-	background-color: #ddd;
 	p {
 		font-size: em(16px);
 		margin-top: em(22px, 16px);
@@ -158,5 +159,7 @@ footer {
 	display: block;
 	height: 250px;
 	width: 100%;
-	background-color: #ddd;
+	@include mq(medium) {
+		background-color: #ddd;
+	}
 }
