@@ -25,21 +25,25 @@
 	display: block;
 	text-align: center;
 	font-size: 22px;
-	padding: 8px;
+	padding: 13px;
 	// background: rgba(255,255,255,0.5);
 	color: 	rgba(0, 102, 204,0.8);
 	// border-radius: 50%;
 	border-bottom: 1px solid rgba(255,255,255,0.6);
-	margin: 5px;
 	@media (max-width: 1050px) {
-		padding-left: 0;
-		padding-right: 0;
-		width: 38px;
 		text-align: center;
 		display: inline-block;
 		border-right: solid 1px rgba(255,255,255,0.6);
 		border-bottom: 0;
 	}	
+	@media (max-width: 350px) {
+		padding: 10px;
+		font-size: 20px;
+		text-align: center;
+		display: inline-block;
+		border-right: solid 1px rgba(255,255,255,0.6);
+		border-bottom: 0;
+	}
 }
 
 #last {
@@ -78,5 +82,8 @@
 		right: 0;
 		margin: auto;
 		text-align: center;
+	}
+		@media (max-width: 350px) {
+		width: 182px;	
 	}
 }
