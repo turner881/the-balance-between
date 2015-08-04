@@ -158,11 +158,11 @@ footer {
 }
 
 .footer-bg {
-	margin-top: 0;
-	display: block;
-	height: 250px;
 	width: 100%;
 	@include mq(medium) {
 		background-color: #ddd;
+		margin-top: 0;
+		display: block;
+		height: 300px;
 	}
 }
