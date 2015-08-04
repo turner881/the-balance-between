@@ -6,7 +6,6 @@
 	margin-right: 40px;
 	margin-top: 10px;
 	@include mq(small) {
-		width: 33.33%;
 		margin: 0;
 	}
 	@include e(item) {
