@@ -13,7 +13,9 @@
 		@include mq(small) {
 			display: inline-block;
 			width: 33.33vw;
+			border-right: rgba(0,0,0,0.5);
 			float: left;
+			margin-bottom: 40px;
 		}	
 		
 		@include m(current) {
