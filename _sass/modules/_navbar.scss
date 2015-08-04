@@ -23,7 +23,7 @@
 	@include mq(small) {
 		display: block;
 		width: 100%;
-		height: 40vh;
+		height: 350px;
 		// background: linear-gradient(rgba(0, 0, 0,0.7), rgba(0, 0, 0,0.7)), url('https://content-na.drive.amazonaws.com/cdproxy/templink/-6Q4JhAlnoRgQ-DetGl_80dbPcEl2-UReZODvq-0R2gLAYspN?viewBox=1366');
 		background: url('https://content-na.drive.amazonaws.com/cdproxy/templink/oqzMPKgu-nBw6evEe3msY7pZgdR86MCQILrXc8AUTkELAYspN?viewBox=1366');
 		background-repeat: no-repeat;
@@ -37,7 +37,7 @@
 		overflow: hidden;
 	}
 	@media (max-width: 500px) {
-		height: 50vh;
+		height: 350px;
 		padding: 75px 0 0 0;
 	}
 }
