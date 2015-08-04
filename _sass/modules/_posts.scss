@@ -14,8 +14,6 @@
 		}
 	}
 	@include e(header) {
-		font-family: 'Fjalla One';
-		text-transform: uppercase;
 		@include mq(medium) {
 		  margin-top: em(50px);
 		  margin-bottom: em(44px);
@@ -24,7 +22,6 @@
  
 	
 	@include e(content) {
-		font-family: 'Cantarell';
 		margin-bottom: em(62px);
 		li {
 			margin: em(4px) 0;
@@ -35,9 +32,6 @@
 		margin-bottom: em(26px);
 	}
 	@include e(author) {
-		font-family: 'Cantarell';
-		font-size: 13px;
-		letter-spacing: -1px;
 		// font-weight: bold;
 		color: $color-secondary;
 		font-weight: $font-weight--bold;
@@ -54,11 +48,6 @@
 	}
 }
 
-#post-home-title {
-	font-family: 'Fjalla One';
-	text-transform: uppercase;	
-	
-}
 
 .underline-2 {
 	height: 4px;
