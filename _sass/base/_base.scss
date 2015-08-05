@@ -12,7 +12,7 @@
 
 #home-bg {
 	@include mq(medium) {
-		background-color: rgb(255, 255, 204);
+		background-color: rgb(112, 148, 255);
 		height: 100%;
 		margin: 0;
 		padding-top: -50px;
@@ -156,7 +156,7 @@ footer {
 		border-top: 1px solid #b3b3b3;
 	}
 	@include mq(medium) {
-		background-color: #ddd;
+		background-color: rgb(112, 148, 255);
 	}
 	p {
 		font-size: em(16px);
@@ -168,7 +168,7 @@ footer {
 .footer-bg {
 	width: 100%;
 	@include mq(medium) {
-		background-color: rgb(255, 255, 204);
+		background-color: rgb(112, 148, 255);
 		margin-top: 0;
 		display: block;
 		height: 330px;
